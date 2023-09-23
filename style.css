@@ -36,6 +36,7 @@
 }
 
 .number-operation{
+    user-select: none;
     background-color: #545B77;
     display: flex;
     align-items: center;
